@@ -6,6 +6,7 @@ The game includes different choices of board size, a player verse player mode, a
   * Medium: Make a random move into an unoccupied square which will not result in an immediate loss.
   * Hard: Make an optimal move into an unoccupied square which will not result in an immediate loss and maximizes the chance of winning next turn. Look ahead by one turn. 
 
+# Screenshots
 Title Screen
 ![Tile Screen of Notakto](https://github.com/ManVanMaan/Notakto/blob/master/images/Title.PNG)
 
